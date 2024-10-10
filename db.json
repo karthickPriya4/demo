@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "todo": "qwertyu111",
+      "id": 2
+    },
+    {
+      "todo": "asdfgh",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

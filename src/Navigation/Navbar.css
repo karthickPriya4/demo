@@ -1,0 +1,19 @@
+nav{
+    background-color: rgb(222, 214, 214);
+    color: white;
+}
+
+li {
+    list-style: none;
+}
+nav {
+    position: fixed;
+    width: 100%;
+    top:0;
+}
+ul {
+    display: flex;
+    gap: 25px;
+    justify-content: right;
+    padding-right: 10% ;
+}
